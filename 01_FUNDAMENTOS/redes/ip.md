@@ -8,6 +8,6 @@ O IP ele pode ser usado para buscar maquinas em uma rede mais facilmente, sendo 
 
 ## Comandos úteis
 ```bash
-nslookup google.com
+
 ping google.com
-ipconfig /displaydns
+ipconfig 
