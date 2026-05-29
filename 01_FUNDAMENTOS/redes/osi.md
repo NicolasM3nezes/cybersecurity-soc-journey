@@ -23,4 +23,8 @@ ele é bastante usado para Streaming.
 ## Camada 5 - Sessão
 Uma sessão é criada assim que uma conexão é estabelecida, essa camada ela fica responsável também caso a conexão não esteja sendo usado ou sejá perdido ele tem alguns checkpoint fazendo que você precise apenas dos ultimos dados enviados.
 
-## Camada 6
+## Camada 6 - Apresentação
+Essa camada ela trabalha igual um tradutor para a camada 7 de aplicação preparando todos os dados
+
+## Camada 7 - Aplicação
+Essa é a camada onde fica a interface direta entre o usuario e a rede
