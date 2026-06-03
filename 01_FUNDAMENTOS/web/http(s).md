@@ -41,4 +41,14 @@ Solicitação DELETE: Usado para apagar informações do servidor
 
 500 à 599: São respostas de erro na parte do servidor
 
-### Ca
+### Cabeçalho de requisição comum
+
+Host: Ele informa site deve acessar
+
+User-Agent: Qual navegador esta fazendo a requisição
+
+Set-Cookie: O servidor envia os cookie para o computador
+
+Cache-control: Ele define por quanto tempo deve guardar  o coutendo em cache
+
+Content-Type: Informa qual couteudo esta sendo enviado
