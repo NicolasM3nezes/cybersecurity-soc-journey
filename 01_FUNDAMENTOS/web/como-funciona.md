@@ -1,22 +1,4 @@
 # Como funciona os sites
 
-## O que é
-
-
-## Tipos de Registos
-
-### Registro A
-Esses são os registros para endereço IPv4
-
-### Registro AAAA
-Esses são os registros para endereço IPv6
-
-### Registro CNAME
-São registros para apontar para outro dominio
-
-### Registro MX
-Sãos os registro de endereço de servidor de email
-
-### Registro TXT
-Esse registro são campo livre onde possa armazenar dados
-
+## Como funciona os sites
+Todos os sites tem  HTML, CSS, JavaScript e uma linguagem de Backend, ele funciona da seguinte forma o front-end (Parte do cliente usuario) pede dados para o servidor web e esse servidor web retorna os dados que ele pediu
