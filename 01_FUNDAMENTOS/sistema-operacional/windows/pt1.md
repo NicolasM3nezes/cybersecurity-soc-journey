@@ -1,3 +1,3 @@
-# Windows
+# Terminal
 
 ## Como funciona
