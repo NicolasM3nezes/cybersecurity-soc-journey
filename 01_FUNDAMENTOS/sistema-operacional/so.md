@@ -13,4 +13,8 @@
  É crucial para que não seja modificado nenhum tipo de arquivo durante o transporte na rede
 
  ### Disponibilidade
- Para que possa ser usado quando quiser,
+ Para que possa ser usado quando quiser
+
+ ## Ransoware
+ Um exemplo de ransoware, ele é um sistema malicioso que invade o sistema operacional, e quebra a disponibilidade, integridade e confidencialidade, criando uma criptografia com os dados original podendo ser acessado apenas com uma chave de acesso, não tem reversão de criptografia, o atacante oferece a possibilidade de restaurar a disponibilidade, então ele cobra um valor para esse resgate de acesso.
+
