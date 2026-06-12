@@ -26,4 +26,3 @@ hostname Mostra qual e o nome do computador
 
 ipconfig Mostra informações basica de redes
 
-
