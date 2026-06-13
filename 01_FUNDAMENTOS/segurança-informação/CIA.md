@@ -7,7 +7,7 @@
 Confidencialidade ela proteje para informações não seja exposta para pessoas não autorizadas.
 
 ## Integridade
-Integridade protege para que informações não seja modificadas durante o processo de envio
+Integridade protege para que informações não seja modificadas durante o processo de envio.
 
 ## Disponibilidade
 Disponibilidade protege para que sempre esteja disponivel para que uma pessoa autorizada possa usar o serviço.
