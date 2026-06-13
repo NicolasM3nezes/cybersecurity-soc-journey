@@ -4,7 +4,7 @@
 É oque realmente protejemos na internet é conhecido como CIA que seria três tópicos diferente sendo eles, Confidencialidade, Integridade e Disponibilidade.
 
 ## Confidencialidade
-Confidencialidade ela proteje para informações não seja exposta para pessoas não autorizadas
+Confidencialidade ela proteje para informações não seja exposta para pessoas não autorizadas.
 
 ## Integridade
 Integridade protege para que informações não seja modificadas durante o processo de envio
