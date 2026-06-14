@@ -15,7 +15,7 @@ Esses são os registros para endereço IPv6
 São registros para apontar para outro dominio
 
 ### Registro MX
-Sãos os registro de endereço de servidor de email
+Sãos os registro de endereço de servidor de email.
 
 ### Registro TXT
 Esse registro são campo livre onde possa armazenar dados.
