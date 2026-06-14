@@ -18,5 +18,5 @@ São registros para apontar para outro dominio
 Sãos os registro de endereço de servidor de email
 
 ### Registro TXT
-Esse registro são campo livre onde possa armazenar dados
+Esse registro são campo livre onde possa armazenar dados.
 
