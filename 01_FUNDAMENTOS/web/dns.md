@@ -9,7 +9,7 @@ Ele é o nome de domínio de um web site como o Google.com, temos o dominio de n
 Esses são os registros para endereço IPv4
 
 ### Registro AAAA
-Esses são os registros para endereço IPv6
+Esses são os registros para endereço IPv6.
 
 ### Registro CNAME
 São registros para apontar para outro dominio
