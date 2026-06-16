@@ -12,7 +12,7 @@ Esses são os registros para endereço IPv4
 Esses são os registros para endereço IPv6.
 
 ### Registro CNAME
-São registros para apontar para outro dominio
+São registros para apontar para outro dominio.
 
 ### Registro MX
 Sãos os registro de endereço de servidor de email.
